@@ -11,3 +11,4 @@
 9. git branch : ```Muestra ramas y verifica el cambio```
 10. git checkout master : ```Te regresa a rama principal,cambios en nueva-rama no son visibles en este scope```
 11. git merge nombre-rama : ```Fusiona sub-ramas a rama master```
+12. git branch -d nombre-rama : ```Elimina sub-rama se debe ejecutar desde el Main```
