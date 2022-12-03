@@ -8,3 +8,4 @@
 6. git log : ```Muestrav los commites```
 7. git commit --amend : ```Arregla el ultimo commit```
 8. git checkout -b nueva-rama : ```Crea nueva rama y cambia automaticamente a ella```
+9. git branch : ```Muestra ramas y verifica el cambio```
