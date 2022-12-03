@@ -13,4 +13,5 @@
 11. git merge nombre-rama : ```Fusiona sub-ramas a rama master```
 12. git branch -d nombre-rama : ```Elimina sub-rama se debe ejecutar desde el Main```
 13. despliegue a GitHub : ```git remote add origin https://github.com/frobledod1981/comandos-basicos-git.git seguir con git push -u origin main```
-
+14. git push : ```sube cambios a repositorio web```
+15. git commit -am : ```Agrega y mensaje en una sola linea valido cuando git ya le tiene segumiento al repositorio```
