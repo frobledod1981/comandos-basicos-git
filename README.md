@@ -9,3 +9,4 @@
 7. git commit --amend : ```Arregla el ultimo commit```
 8. git checkout -b nueva-rama : ```Crea nueva rama y cambia automaticamente a ella```
 9. git branch : ```Muestra ramas y verifica el cambio```
+10. git checkout master : ```Te regresa a rama principal,cambios en nueva-rama no son visibles en este scope```
